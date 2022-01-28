@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ecomm-test/static/css/main.42995b86.css",
+    "main.js": "/ecomm-test/static/js/main.5a017ecf.js",
+    "index.html": "/ecomm-test/index.html",
+    "main.42995b86.css.map": "/ecomm-test/static/css/main.42995b86.css.map",
+    "main.5a017ecf.js.map": "/ecomm-test/static/js/main.5a017ecf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42995b86.css",
+    "static/js/main.5a017ecf.js"
+  ]
+}
