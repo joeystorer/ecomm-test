@@ -35,12 +35,7 @@ export default class Customers extends Component {
       <div>
         <h4 className="m-1 p-1">
           {this.state.pageTitle}
-          <span className="badge badge-secondary m-2">
-            {this.state.custNumber}
-          </span>
-          <button className="btn btn-info" onClick={this.refreshCustomers}>
-            Refresh
-          </button>
+
           <table className="table">
             <thead>
               <tr>

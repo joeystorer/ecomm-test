@@ -5,9 +5,7 @@ class NavBar extends Component {
       <React.Fragment>
         <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
           <div className="container-fluid">
-            <a className="navbar-brand" href="https://www.google.com">
-              Ecomm Test
-            </a>
+            <h1 className="navbar-brand">Ecomm Test</h1>
             <button
               className="navbar-toggler"
               type="button"
